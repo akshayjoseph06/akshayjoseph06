@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Akshay Joseph</h1>
 <h3 align="center">A technology  enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayjoseph06&label=Profile%20views&color=0e75b6&style=flat" alt="akshayjoseph06 /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayjoseph06&label=Profile%20views&color=0e75b6&style=flat" alt="akshayjoseph06" /> </p>
 
 - 🔭 I’m currently working on **Ecommerce Development**
 
-- 🌱 I’m currently learning **Embedded programming ,Magento, Shopify, Python , **
+- 🌱 I’m currently learning **Embedded programming ,Magento, Shopify, Python  **
 
 - 💬 Ask me about **Fix your computer 😉 Just kidding**
 
