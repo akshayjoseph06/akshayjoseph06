@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Ecommerce Development**
 
-- 🌱 I’m currently learning **Embedded programming ,Magento, Shopify, Python**
+- 🌱 I’m currently learning **Magento2, Shopify store and app development, Python, Embedded programming**
 
 - 💬 Ask me about **Fix your computer 😉 Just kidding**
 
